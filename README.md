@@ -17,7 +17,8 @@
         <img align="center" alt="Arliene-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Arliene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="Arliene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Arliene-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grafana/grafana-original.svg">
+        <img align="center" alt="Arliene-PostgreSQL" height="30" width="30" src="https://www.postgresql.org/media/img/about/press/elephant.png">
+        <img align="center" alt="Arliene-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grafana/grafana-original.svg">
 </div>
   
   ##
