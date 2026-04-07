@@ -18,7 +18,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -44,6 +44,7 @@
 
 <br>
 
+<!--
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -54,8 +55,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arlienebatista&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="180"/>
   </a>
 </div>
-
 <br>
+-->
 
 ## 📫 Vamos nos conectar!
 
