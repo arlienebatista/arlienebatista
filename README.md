@@ -44,19 +44,18 @@
 
 <br>
 
-<!--
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/arlienebatista">
-    <img src="https://github-readme-stats.vercel.app/api?username=arlienebatista&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estatísticas de Arliene" height="180"/>
+    <img src="./profile/stats.svg" alt="Estatísticas de Arliene" height="180"/>
   </a>
   <a href="https://github.com/arlienebatista">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arlienebatista&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="180"/>
+    <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="180"/>
   </a>
 </div>
+
 <br>
--->
 
 ## 📫 Vamos nos conectar!
 
