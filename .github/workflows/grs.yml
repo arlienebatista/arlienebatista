@@ -2,6 +2,7 @@ name: Update README cards
 
 on:
   schedule:
+    # Roda todos os dias as 3:00 da manha
     - cron: "0 3 * * *"
   workflow_dispatch:
 
@@ -11,14 +12,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 1. Gera o arquivo de estatisticas gerais
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 2. Gera o arquivo de linguagens mais usadas
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Salva os dois arquivos no repositorio
       - name: Commit cards
         run: |
           git config user.name "github-actions"
