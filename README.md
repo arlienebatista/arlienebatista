@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Arliene 👋</h1>
-  <h3>Desenvolvedora & Pesquisadora em Inteligência Artificial</h3>
+  <h3>Desenvolvedora Web & Pesquisadora em Inteligência Artificial</h3>
   <p>Construindo soluções tecnológicas com impacto social e pesquisando inovações na Amazônia.</p>
 </div>
 
