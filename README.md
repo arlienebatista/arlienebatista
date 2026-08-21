@@ -8,11 +8,10 @@
 
 ## 👩‍💻 Sobre mim
 
-* 🔭 Atualmente trabalhando no desenvolvimento da **IA Nery**, um agente conversacional projetado para oferecer suporte a cuidadores informais.
-* 📚 Finalizando minha dissertação de mestrado e conduzindo o mapeamento sistemático sobre o uso de IA para grupos vulneráveis na região amazônica.
-* 💻 Tenho grande interesse na interseção entre Inteligência Artificial, desenvolvimento de sistemas e como a tecnologia pode transformar a vida das pessoas.
-* 🐱 Quando não estou codando ou escrevendo artigos, provavelmente estou ouvindo música ou na companhia dos meus dois gatos.
-* 🎯 Foco atual: Aprimoramento contínuo em ecossistemas React, integrações em Python e arquitetura de chatbots.
+* 🎓 Mestra em Ciência da Computação, com pesquisa voltada à aplicação de Inteligência Artificial para grupos vulneráveis na região amazônica e ao desenvolvimento de soluções tecnológicas de apoio ao cuidado.
+* 💻 Tenho grande interesse na interseção entre Inteligência Artificial, desenvolvimento de sistemas e impacto social, especialmente em como a tecnologia pode transformar a vida das pessoas.
+* 🐱 Quando não estou codando, pesquisando ou escrevendo artigos, provavelmente estou ouvindo música ou na companhia dos meus dois gatos.
+* 🎯 Foco atual: aprimoramento contínuo em ecossistemas React, integrações com Python, IA generativa, RAG e arquitetura de agentes conversacionais.
 
 <br>
 
