@@ -32,7 +32,7 @@
 </div>
 
 ## 📊 Estatísticas do GitHub
-
+<div align="center">
   <a href="https://github.com/arlienebatista">
     <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="180"/>
   </a>
